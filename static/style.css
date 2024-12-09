@@ -1,0 +1,26 @@
+#form-aggiungere {
+    max-width: 70%;
+    margin: 30px auto;
+    padding: 30px;
+    border: 3px solid #4b0082;
+    border-radius: 20px;
+    background-color: #e6e6fa;
+    font-family: 'Verdana', sans-serif;
+}
+
+#zona-elementi {
+    max-width: 80%;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: #f0f8ff;
+    border: 2px solid #4682b4;
+    border-radius: 15px;
+}
+
+li {
+    padding-bottom: 20px;
+    font-size: 18px;
+    color: #2f4f4f;
+    font-family: 'Arial', sans-serif;
+    list-style: circle;
+}
